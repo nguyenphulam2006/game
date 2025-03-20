@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1742440535 source:c:\users\hp\onedrive\máy tính\catgame\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"character.h"
+	"map.h"
+
+1742440535 source:c:\users\hp\onedrive\máy tính\catgame\game\map.cpp
+	"map.h"
+	<iostream>
+
+1742439926 c:\users\hp\onedrive\máy tính\catgame\game\map.h
+	<SDL.h>
+	<SDL_image.h>
+
+1742440443 source:c:\users\hp\onedrive\máy tính\catgame\game\character.cpp
+	"character.h"
+	<iostream>
+
+1742440569 c:\users\hp\onedrive\máy tính\catgame\game\character.h
+	<SDL.h>
+	<SDL_image.h>
+
