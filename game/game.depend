@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1743467784 source:c:\users\hp\onedrive\máy tính\catgame\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"character.h"
+	"map.h"
+	"Platform.h"
+
+1742440535 source:c:\users\hp\onedrive\máy tính\catgame\game\map.cpp
+	"map.h"
+	<iostream>
+
+1742439926 c:\users\hp\onedrive\máy tính\catgame\game\map.h
+	<SDL.h>
+	<SDL_image.h>
+
+1743467542 source:c:\users\hp\onedrive\máy tính\catgame\game\character.cpp
+	"character.h"
+	<iostream>
+
+1743466163 c:\users\hp\onedrive\máy tính\catgame\game\character.h
+	<SDL.h>
+	<SDL_image.h>
+	"Platform.h"
+
+1743467813 source:c:\users\hp\onedrive\máy tính\catgame\game\platform.cpp
+	"Platform.h"
+
+1743467784 c:\users\hp\onedrive\máy tính\catgame\game\platform.h
+	<SDL.h>
+	<vector>
+
+1744643130 source:c:\users\hp\onedrive\máy tính\catgame\game\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"character.h"
+	"map.h"
+
+1744644177 c:\users\hp\onedrive\máy tính\catgame\game\game\character.h
+	<SDL.h>
+	<SDL_image.h>
+
+1743467784 c:\users\hp\onedrive\máy tính\catgame\game\game\platform.h
+	<SDL.h>
+	<vector>
+
+1744644333 c:\users\hp\onedrive\máy tính\catgame\game\game\map.h
+	<SDL.h>
+	<SDL_image.h>
+
+1744644320 source:c:\users\hp\onedrive\máy tính\catgame\game\game\map.cpp
+	"map.h"
+	<iostream>
+
+1744643572 source:c:\users\hp\onedrive\máy tính\catgame\game\game\character.cpp
+	"character.h"
+	<iostream>
+
+1744644820 source:c:\users\hp\onedrive\máy tính\catgame\game\game\obstacle.cpp
+	"Obstacle.h"
+
+1744644820 c:\users\hp\onedrive\máy tính\catgame\game\game\obstacle.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
