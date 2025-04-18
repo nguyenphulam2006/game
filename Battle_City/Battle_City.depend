@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1744982392 source:c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.cpp
+	"Bullet.h"
+
+1744982560 c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.h
+	<SDL.h>
+
+1744982392 source:c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.cpp
+	"PlayerTank.h"
+	<iostream>
+	<algorithm>
+
+1744982637 c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"Bullet.h"
+
+1744957567 source:c:\users\hp\onedrive\máy tính\demo\battle_city\wall.cpp
+	"Wall.h"
+
+1744981588 c:\users\hp\onedrive\máy tính\demo\battle_city\wall.h
+	<SDL.h>
+
+1744956293 source:c:\users\hp\onedrive\máy tính\demo\battle_city\main.cpp
+	"Game.h"
+
+1744982536 c:\users\hp\onedrive\máy tính\demo\battle_city\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	"PlayerTank.h"
+	"EnemyTank.h"
+
+1744982579 c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.h
+	<SDL.h>
+	<SDL_image.h>
+
+1744982720 source:c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.cpp
+	"EnemyTank.h"
+	<iostream>
+
+1744982732 source:c:\users\hp\onedrive\máy tính\demo\battle_city\game.cpp
+	"Game.h"
+	<iostream>
+
