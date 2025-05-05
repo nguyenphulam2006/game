@@ -32,16 +32,28 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="BossBullet.cpp" />
+		<Unit filename="BossBullet.h" />
+		<Unit filename="BossEnemy.cpp" />
+		<Unit filename="BossEnemy.h" />
 		<Unit filename="Bullet.cpp" />
 		<Unit filename="Bullet.h" />
+		<Unit filename="ChickenEnemy.cpp" />
+		<Unit filename="ChickenEnemy.h" />
+		<Unit filename="EnemyBullet.cpp" />
+		<Unit filename="EnemyBullet.h" />
 		<Unit filename="EnemyTank.cpp" />
 		<Unit filename="EnemyTank.h" />
+		<Unit filename="Explosion.cpp" />
+		<Unit filename="Explosion.h" />
 		<Unit filename="Game.cpp" />
 		<Unit filename="Game.h" />
-		<Unit filename="PlayerTank.cpp" />
-		<Unit filename="PlayerTank.h" />
-		<Unit filename="Wall.cpp" />
-		<Unit filename="Wall.h" />
+		<Unit filename="GameMenu.cpp" />
+		<Unit filename="GameMenu.h" />
+		<Unit filename="PlayerBullet.cpp" />
+		<Unit filename="PlayerBullet.h" />
+		<Unit filename="PlayerShip.cpp" />
+		<Unit filename="PlayerShip.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

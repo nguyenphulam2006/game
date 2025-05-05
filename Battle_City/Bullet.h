@@ -7,9 +7,9 @@ class Bullet {
 public:
     Bullet(int x, int y, int dx, int dy);
     void move();
-    void render(SDL_Renderer* renderer);
+    virtual void render(SDL_Renderer* renderer) = 0;
 
-private:
+protected:
     SDL_Rect rect;
     int dx, dy;
 };

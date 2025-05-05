@@ -1,16 +1,16 @@
 # depslib dependency file v1.0
-1744982392 source:c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.cpp
+1745281948 source:c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.cpp
 	"Bullet.h"
 
-1744982560 c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.h
+1745362947 c:\users\hp\onedrive\máy tính\demo\battle_city\bullet.h
 	<SDL.h>
 
-1744982392 source:c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.cpp
+1745281667 source:c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.cpp
 	"PlayerTank.h"
 	<iostream>
 	<algorithm>
 
-1744982637 c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.h
+1745361371 c:\users\hp\onedrive\máy tính\demo\battle_city\playertank.h
 	<SDL.h>
 	<SDL_image.h>
 	<vector>
@@ -25,22 +25,109 @@
 1744956293 source:c:\users\hp\onedrive\máy tính\demo\battle_city\main.cpp
 	"Game.h"
 
-1744982536 c:\users\hp\onedrive\máy tính\demo\battle_city\game.h
+1746428253 c:\users\hp\onedrive\máy tính\demo\battle_city\game.h
 	<SDL.h>
 	<SDL_image.h>
+	<SDL_ttf.h>
 	<vector>
-	"PlayerTank.h"
+	<memory>
+	<string>
+	<SDL_mixer.h>
+	"PlayerShip.h"
+	"EnemyTank.h"
+	"BossEnemy.h"
+
+1746409906 c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"EnemyBullet.h"
+
+1746409942 source:c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.cpp
 	"EnemyTank.h"
 
-1744982579 c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.h
+1746430163 source:c:\users\hp\onedrive\máy tính\demo\battle_city\game.cpp
+	"Game.h"
+	"PlayerShip.h"
+	"ChickenEnemy.h"
+	<iostream>
+	<algorithm>
+	<memory>
+	"Explosion.h"
+	"GameMenu.h"
+	"BossEnemy.h"
+
+1745281845 source:c:\users\hp\onedrive\máy tính\demo\battle_city\chicken.cpp
+	"EnemyTank.h"
+	<SDL_log.h>
+	<string>
+
+1746336006 source:c:\users\hp\onedrive\máy tính\demo\battle_city\enemybullet.cpp
+	"EnemyBullet.h"
+
+1746341883 c:\users\hp\onedrive\máy tính\demo\battle_city\enemybullet.h
+	<SDL.h>
+
+1746407671 source:c:\users\hp\onedrive\máy tính\demo\battle_city\playerbullet.cpp
+	"PlayerBullet.h"
+	<iostream>
+
+1746407671 c:\users\hp\onedrive\máy tính\demo\battle_city\playerbullet.h
 	<SDL.h>
 	<SDL_image.h>
 
-1744982720 source:c:\users\hp\onedrive\máy tính\demo\battle_city\enemytank.cpp
-	"EnemyTank.h"
+1746409990 source:c:\users\hp\onedrive\máy tính\demo\battle_city\playership.cpp
+	"PlayerShip.h"
+	"PlayerBullet.h"
 	<iostream>
 
-1744982732 source:c:\users\hp\onedrive\máy tính\demo\battle_city\game.cpp
-	"Game.h"
+1746409906 c:\users\hp\onedrive\máy tính\demo\battle_city\playership.h
+	<SDL.h>
+	<SDL_image.h>
+	"PlayerBullet.h"
+	<vector>
+	<SDL_mixer.h>
+
+1746409906 source:c:\users\hp\onedrive\máy tính\demo\battle_city\chickenenemy.cpp
+	"ChickenEnemy.h"
+	<algorithm>
+
+1746409906 c:\users\hp\onedrive\máy tính\demo\battle_city\chickenenemy.h
+	"EnemyTank.h"
+	"EnemyBullet.h"
+	<vector>
+
+1746403202 source:c:\users\hp\onedrive\máy tính\demo\battle_city\explosion.cpp
+	"Explosion.h"
+
+1746339102 c:\users\hp\onedrive\máy tính\demo\battle_city\explosion.h
+	<SDL.h>
+
+1746359414 source:c:\users\hp\onedrive\máy tính\demo\battle_city\gamemenu.cpp
+	"GameMenu.h"
 	<iostream>
+
+1746359403 c:\users\hp\onedrive\máy tính\demo\battle_city\gamemenu.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<string>
+
+1746428980 c:\users\hp\onedrive\máy tính\demo\battle_city\bossenemy.h
+	"EnemyTank.h"
+	<vector>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	"BossBullet.h"
+
+1746428980 source:c:\users\hp\onedrive\máy tính\demo\battle_city\bossenemy.cpp
+	"BossEnemy.h"
+
+1746427595 source:c:\users\hp\onedrive\máy tính\demo\battle_city\bossbullet.cpp
+	"BossBullet.h"
+
+1746427595 c:\users\hp\onedrive\máy tính\demo\battle_city\bossbullet.h
+	<SDL.h>
 
